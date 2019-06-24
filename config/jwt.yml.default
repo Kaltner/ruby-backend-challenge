@@ -1,0 +1,6 @@
+development:
+  api_key: 'DEV LONG STRING'
+production:
+  api_key: 'PRODUCTION LONG STRING'
+test:
+  api_key: 'TEST LONG STRING'
